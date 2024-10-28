@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Exclude file .DS_Store for Mac OS users
+.DS_Store
+ 
